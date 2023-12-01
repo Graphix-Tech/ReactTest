@@ -1,0 +1,22 @@
+.TextMediaForm{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px; 
+  }
+  .button-container button:first-child {
+    margin-right: 10px;
+  }
+  .button-container button{
+    height: 40px;
+    width: 90px;
+    border: 1px solid rgb(201, 201, 201);
+  }
+  .button-container button:hover{
+    border: 1px solid rgb(201, 201, 201);
+  }

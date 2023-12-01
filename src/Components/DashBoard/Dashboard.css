@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+   
+}
+.ChartAndTable{
+    border: 1px solid grey;
+    padding: 10px;
+}
+.ad-insights-header{
+    border-bottom: 1px solid grey;
+}
+.ad-insights-header,.dropdown{
+    display: flex;
+    justify-content: space-between;
+}
+.ad-insights-content{
+    margin-top: 50px;
+}
+.chart-container{
+    display: flex;
+    margin-left: 50px;
+}
+.doughnutChart,.chart-data-info{
+    padding-left: 50px;
+}
+.bottom-icons{
+    margin-top: 90px;
+    float: right;
+}
+.bottom-icons span{
+    padding:5px;
+}

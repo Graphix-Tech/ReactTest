@@ -1,0 +1,33 @@
+.cards{
+    border: 1px solid rgb(142, 142, 142);
+}
+.checkbox {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 1;
+  }
+  .cardImg {
+    margin-top: 30px;
+  }
+  .cardBody {
+    padding: 1rem;
+  }
+  .Card1,.Card2{
+    padding-right: 30px;
+  }
+  .TextAdCard1 {
+    width: 15rem;
+    position: relative;
+    margin-left: auto;
+  }
+  .cardTitle{
+    color:grey;
+    font-size: small;
+  }
+.cardButton{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 6px; 
+  padding-bottom:10px;
+}
